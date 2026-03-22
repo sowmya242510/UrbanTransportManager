@@ -1,0 +1,9 @@
+OmEntry {
+	#tags : {
+		#prior : OmReference [ 'Pharo12.0-SNAPSHOT-64bit-e35513ca60.36D6EE65B42ACB80', '66' ],
+		#self : OmReference [ '1' ]
+	},
+	#content : EpSessionSnapshot {
+		#imageName : 'C:\\Users\\DELL\\Downloads\\Copy-2\\RideSharingSystem.1.image'
+	}
+}
